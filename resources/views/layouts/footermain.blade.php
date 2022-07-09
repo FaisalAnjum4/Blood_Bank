@@ -1,0 +1,9 @@
+<html>
+    <head></head>
+    <body>
+        @include('includes.forallfooter')
+        <div>
+            @yield('content')
+        </div>
+    </body>
+</html>
